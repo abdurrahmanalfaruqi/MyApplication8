@@ -1,0 +1,9 @@
+# MyApplication8
+Ini projek saya untuk menghitung volume balok
+Projek ini menggunakan:
+TextView
+EditText
+Button
+Binding View / findViewById()
+Mengambil nilai dari edittext ==> editText.getText().toString();
+parsing / mengubah String ke int ==> Integer.parseInt(etTinggi.getText().toString());
